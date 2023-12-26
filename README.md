@@ -27,10 +27,10 @@ MODEL_LOCATOR=gpt-3.5-turbo
 
 MAX_TOKENS=200
 
-We can provide any pdf of our choice so that we can easily get our answers without reading the whole book.
-
 TEMPERATURE=0.0
 
 DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
 
 make sure to change the folder path with your dropbox local path.
+
+We can provide any pdf of our choice so that we can easily get our answers without reading the whole book.

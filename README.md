@@ -7,7 +7,7 @@ step3: Use pip  to install all the requirements for the application to run.
 step4: After the packages are installed, run command: python main.py
 step5: Now separately run: streamlit run drop-app.py to launch the streamlit application which is the frontend of this app.
 
-### Note: Use linus or MacOS since LLM app is having conflicting dependencies or use containers using docker or wsl.
+### Note: Use linux or MacOS since LLM app is having conflicting dependencies or use containers using docker or wsl.
 
 .env file is like below:
 OPENAI_API_TOKEN={OPENAI_API_KEY}
